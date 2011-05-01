@@ -1,1 +1,7 @@
-FC
+name: FullChest
+main: fullChest.FullChest
+version: 0.1
+commands:
+  fullchest:
+    description: Spawn a chest full of uh.. anything!
+    usage: /fullchest ItemName
